@@ -21,7 +21,7 @@
 		"editor.formatOnSave": true,
 		"gopls": {
 			"usePlaceholders": true,
-			"staticcheck": false,
+			"staticcheck": false
 		},
 		"go.toolsEnvVars": {
 			"GO111MODULE": "on"
